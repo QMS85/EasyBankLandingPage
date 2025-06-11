@@ -703,3 +703,14 @@ a:focus {
     font-size: 24pt;
   }
 }
+
+.attribution {
+  font-size: 0.75rem;
+  color: var(--grayish-blue);
+  text-align: center;
+  margin-top: 5rem;
+}
+.attribution a {
+  color: var(--lime-green);
+  text-decoration: none;
+}
