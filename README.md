@@ -1,3 +1,12 @@
+```# DISCLAIMER:```
+```THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT.```
+
+```This is NOT the official site of the company or brand identified on the page.```
+
+```The creator of this page is NOT affiliated with the company or brand in any way.```
+
+```This page is a personal project made in connection with an educational exercise.```
+
 # Frontend Mentor - Easybank Digital Bank Website/Landing Page Solution
 
 This is my solution to the [Frontend Mentor Easybank Digital Bank Website/Landing Page Challenge](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
