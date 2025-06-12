@@ -714,3 +714,16 @@ a:focus {
   color: var(--lime-green);
   text-decoration: none;
 }
+
+.disclaimer,
+.disclaimer-text {
+  color: rgb(14, 4, 0);
+  text-align: center;
+  border: 2px solid rgb(250, 104, 6);
+  animation: 
+    disclaimer-flash 2.8s linear infinite,
+    disclaimer-border-flash 2.8s linear infinite;
+  border-radius: 0.5em;
+  padding: 0.5em 1em;
+  text-decoration: none;
+}
