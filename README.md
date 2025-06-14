@@ -46,7 +46,6 @@ Users should be able to:
 - Mobile-first workflow
 - Created a simple Node JS http server to serve static files (HTML, CSS & JavaScript)
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned  
 Styling Consistency: The migration from custom CSS to Tailwind utilities demonstrates how utility-first CSS can provide more consistent spacing, colors, and responsive behavior.
